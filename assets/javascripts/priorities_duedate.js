@@ -10,7 +10,8 @@
       "4": 30,
       "5": 7,
       "6": 3,
-      "7": 1
+      "7": 1,
+      "17": 1
     };
 
     function onPriorityChange(event) {
